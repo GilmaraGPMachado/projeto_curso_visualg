@@ -1,2 +1,2 @@
 # projeto_curso_algoritmo01
-Este projeto é sobre o curso Algoritmo e Lógica I
+Projeto criado para escrever portugol na ferramente visualg
