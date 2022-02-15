@@ -1,2 +1,2 @@
-# projeto_curso_algoritmo01
+# projeto_curso_visualg
 Projeto criado para escrever portugol na ferramente visualg
